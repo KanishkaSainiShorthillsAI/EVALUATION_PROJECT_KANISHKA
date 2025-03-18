@@ -1,0 +1,10 @@
+[
+    {
+        "query": "What are cardinal directions?",
+        "answer": "Cardinal directions are the four main directions: north, east, south, and west. These directions are also known as cardinal points. In addition to these, intermediate directions such as northeast (NE), southeast (SE), southwest (SW), and northwest (NW) are also used. Most maps simply have an arrow marked with the letter 'N', which points to the north direction."
+    },
+    {
+        "query": "What is democracy?",
+        "answer": "Based on the information provided in the context, democracy can be defined as a form of government where a majority of people rule through their elected representatives. This is because modern democracies involve such a large number of people that it is physically impossible for them to sit together and take collective decisions. Additionally, even if they could, citizens do not have the time, desire or skills to participate in all the decisions. Therefore, democracy is characterized by a representative system where a majority of people elect representatives to make decisions on their behalf."
+    }
+]
