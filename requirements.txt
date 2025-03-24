@@ -1,0 +1,18 @@
+# Core Dependencies
+streamlit
+python-dotenv
+weaviate-client
+openai
+sentence-transformers
+numpy
+requests
+ 
+# Logging & Debugging
+logging  # (built-in, no need to install separately)
+ 
+Other Dependencies
+# pandas
+# beautifulsoup4
+# selenium
+ 
+# System Requirement: Ensure Python 3.8+
