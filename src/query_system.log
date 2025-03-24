@@ -1,0 +1,29 @@
+2025-03-24 15:29:19,121 - INFO - Frontend page loaded.
+2025-03-24 15:29:19,121 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:29:19,406 - INFO - HTTP Request: GET https://gf3ep4a7scqwktm0bngwhq.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:29:19,461 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:29:19,982 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:29:19,982 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:29:25,412 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:29:25,420 - INFO - Weaviate connection closed.
+2025-03-24 15:29:38,845 - INFO - Frontend page loaded.
+2025-03-24 15:29:38,845 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:29:39,019 - INFO - Frontend page loaded.
+2025-03-24 15:29:39,020 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:29:39,161 - INFO - HTTP Request: GET https://gf3ep4a7scqwktm0bngwhq.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:29:39,213 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:29:39,237 - INFO - HTTP Request: GET https://gf3ep4a7scqwktm0bngwhq.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:29:39,284 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:29:39,377 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:29:39,377 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:29:39,453 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:29:39,454 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:29:42,227 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:29:42,924 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:29:42,925 - INFO - Received query: 'What is Lok Sabha?'
+2025-03-24 15:29:42,925 - INFO - Creating embedding for the query...
+2025-03-24 15:30:31,416 - INFO - Retrieving relevant document chunks from Weaviate...
+2025-03-24 15:30:31,416 - INFO - Generating answer using Ollama...
+2025-03-24 15:30:31,416 - INFO - Query processed successfully!
+2025-03-24 15:30:31,420 - INFO - Logged query: 'What is Lok Sabha?' | Time taken: 48.49 sec
+2025-03-24 15:30:31,431 - INFO - Weaviate connection closed.
